@@ -93,3 +93,7 @@ For debugging, `window.game`, `window.PLANETS` and `window.SYSTEMS` are exposed 
 Burn Vector exists because of **Escape Velocity**, the space trading and combat game created by Matt Burch and published by Ambrosia Software in 1996. Its open-ended mix of trading, missions, ship upgrades and hyperspace travel between charted star systems is the direct inspiration for this game, and many of its ideas (spaceport services, the galaxy map, disabling and boarding ships, legal standing with each government) are deliberate homages.
 
 This is an independent, non-commercial fan tribute. It is not affiliated with, endorsed by or connected to Ambrosia Software or the creators of Escape Velocity, and it contains none of their code, art, sound, text or data. Escape Velocity is a trademark of its respective owners.
+
+## License
+
+[MIT](LICENSE) © 2026 Seth Davis. The license covers this project's own code and content; it grants no rights to Escape Velocity, which remains the property of its owners.

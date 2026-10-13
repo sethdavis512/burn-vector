@@ -2,6 +2,7 @@
   "name": "burn-vector",
   "type": "module",
   "private": true,
+  "license": "MIT",
   "scripts": {
     "dev": "bun --hot server.ts",
     "build": "bun build ./index.html --outdir dist --minify",
